@@ -5,7 +5,7 @@ A feladat egy fejlesztőbarát, szépen tervezett, jól használható REST inter
 funkicókat, szolgáltatásokat el lehet érni. Az elkészült API-nak rendelkeznie kell megfelelő dokumentációval is a fejlesztők felé.
 
 ## Határidők
- - feladat [specifikáció](https://github.com/Tubeee/onlab1/blob/master/1%20-%20specifikacio/specifikacio.docx) (1-2 oldalas leírás) - **október 5**
+ - feladat [specifikáció](https://github.com/IcehT/onlab1/raw/master/1%20-%20specifikacio/specifikacio.docx) (1-2 oldalas leírás) - **október 5**
  - Technológiák kipróbálása és dokumentálása, saját tapasztaltok rögzítése – **november 15**
  - néhány funkció elkészítése swagger + backend + frontend – **december 5**
 
